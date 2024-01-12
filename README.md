@@ -26,6 +26,8 @@
     3. in db.js change configs to connect to PostgreSQL server
 
     3.run  "node ./src/index.js "
+
+# [postman workspace](https://www.postman.com/winter-astronaut-108393/workspace/databaseproject/collection/17431671-a4defd69-9cd1-4f5e-b6b6-ecc5a1d90e39?action=share&creator=17431671)
    
 # students  
 
