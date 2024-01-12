@@ -3,9 +3,9 @@
 
 # Database project
 
-<H3> this project has educational propose for designing database and implementing that in PostgreSQL .
+<H4> this project has educational propose for designing database and implementing that in PostgreSQL .
  it didn't matter what language or architecture to use . just to test the database design
-</H3> 
+</H4> 
 
 
  ### entity relation diagram
@@ -18,7 +18,13 @@
 ![](./docs/logical.png)
 
 
+# How to run it :
+    1.make sure you have installed node.js and PostgreSQL
 
+    2.run sql queries in query.sql in order.
+
+    3.run  "node ./src/index.js "
+   
 # students  
 
 
