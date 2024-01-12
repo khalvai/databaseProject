@@ -3,7 +3,23 @@
 
 # Database project
 
-# studenets 
+<H3> this project has educational propose for designing database and implementing that in PostgreSQL .
+ it didn't matter what language or architecture to use . just to test the database design
+</H3> 
+
+
+ ### entity relation diagram
+ 
+![](./docs/erd.png)
+
+
+ ### logical diagram
+ 
+![](./docs/logical.png)
+
+
+
+# students  
 
 
  ### create student 
