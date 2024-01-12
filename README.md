@@ -22,6 +22,8 @@
     1.make sure you have installed node.js and PostgreSQL
 
     2.run sql queries in query.sql in order.
+    
+    3. in db.js change configs to connect to PostgreSQL server
 
     3.run  "node ./src/index.js "
    
